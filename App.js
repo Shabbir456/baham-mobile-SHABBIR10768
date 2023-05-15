@@ -1,6 +1,5 @@
 import { FlatList, ScrollView, StyleSheet, Text, View, SectionList, TextInput, Button } from 'react-native';
 import AppHeader from './AppHeader';
-import AppFooter from './AppFooter';
 import Login from './Login';
 
 const allVehicles = [
